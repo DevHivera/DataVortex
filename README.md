@@ -1,7 +1,4 @@
-# DataVortex
-This is my first repository
+I'm Nowshin
 <br>
-Author-Nowshin Tabassum
-<br>
-wow 
-yeeeeeeeeeeeeee
+I'm a Microbiology Undergrade Student 👩🏼‍🔬 but My passion for Code is boundless in every aspects
+<br> making me a full-stack web developer 🛸
